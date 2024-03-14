@@ -26,4 +26,4 @@ Drag and Drop Packed assembly onto Compiled Unpacker exe
  * [Kaidoz](https://github.com/Kaidoz) - Proxy Methods, Constants Outliner
  * [0xd4d](https://github.com/0xd4d) - [dnlib](https://github.com/0xd4d/dnlib)
  * [TheProxy](https://github.com/TheProxyRE) - [String Tutorial](https://github.com/TheProxyRE/Deobfuscation-Tutorials/tree/master/1.Strings)
- * [TheProxy](https://github.com/TheProxyRE) - Mutation Cleaner. I wish I could add this myself but I did not understand and Proxy obfuscated his cleaner :(
+ * [TheProxy](https://github.com/TheProxyRE) - Mutation Cleaner
